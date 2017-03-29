@@ -201,7 +201,7 @@ PLATFORMS
 DEPENDENCIES
   asciidoctor (~> 1.5.4)
   coderay (= 1.1.1)
-  github-pages (= 130)
+  github-pages
   jekyll
   jekyll-asciidoc
   jekyll-gist

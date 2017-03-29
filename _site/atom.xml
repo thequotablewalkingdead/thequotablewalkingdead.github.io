@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>The Quotable Walking Dead</title>
-	<updated>2017-03-28T22:10:58-05:00</updated>
+	<updated>2017-03-29T15:30:15-05:00</updated>
 
 	<subtitle>»A Fan site dedicated to AMC The Walking Dead. </subtitle>
 
@@ -16,13 +16,15 @@
 			
 			
 			
+				<uri>http://thequotablewalkingdead.com</uri>
+			
 		</author>
 	
 
 	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
 
 	
 		<entry>
@@ -35,11 +37,9 @@
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -100,11 +100,9 @@
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -540,10 +538,10 @@ element&lt;/td&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Find out more about Kramdown on &lt;a href=&quot;http://kramdown.gettalong.org/&quot;&gt;http://kramdown.gettalong.org/&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Find out more about Kramdown on &lt;a href=&quot;http://kramdown.gettalong.org/&quot;&gt;http://kramdown.gettalong.org/&lt;/a&gt;&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Kramdown has an excellent documentation of all its features. Check out, on how to &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html#footnotes&quot;&gt;footnotes&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Kramdown has an excellent documentation of all its features. Check out, on how to &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html#footnotes&quot;&gt;footnotes&lt;/a&gt;.&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -569,11 +567,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -602,11 +598,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -669,11 +663,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -740,11 +732,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -812,11 +802,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -875,11 +863,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -951,11 +937,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -1023,11 +1007,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
