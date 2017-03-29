@@ -6,6 +6,11 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem "jekyll-asciidoc"
+
+  require 'json'
+  require 'open-uri'
+  versions = JSON.parse(open('https://pages.github.com/versions.json').read)  
+  gem 'github-pages', versions['github-pages']
 end
 
 gem 'asciidoctor', '~> 1.5.4'
