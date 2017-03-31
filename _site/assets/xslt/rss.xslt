@@ -125,6 +125,18 @@
           
           
         
+
+              
+
+          
+          
+        
+
+              
+
+          
+          
+        
         
       </ul>
 
@@ -154,6 +166,36 @@
             
             
               <li><a  href="http://localhost:4000/blog/">Blog</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/info/">Gear</a></li>
+              <li class="divider"></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/junk/">Junk</a></li>
               <li class="divider"></li>
 
             
