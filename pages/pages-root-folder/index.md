@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Blog & News"
   url: '/blog/'
-  image: widget-1-302x182.jpg
+  image: rick-blog.jpg
   text: "Get your fix of TWD gossip, news, and videos. What is the cast up to? Learn to make some props for cosplay. Find out about fan theories. This and much more."
 #widget1:
 #  title: "Blog & Portfolio"
@@ -21,16 +21,16 @@ widget2:
   title: "Gear"
   url: '/info/'
   text: "Find the coolest TWD products out there. Into cosplay? Attending a costume party or planning early for Halloween? TWD tees? Click here for the gear."
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  image: gear-303x182.jpg
 #widget2:
 #  title: "Why use this theme?"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
 #  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'  
 widget3:
-  title: "Random Junk"
+  title: "Stuff 'n' Thangs"
   url: '/info/'
-  image: widget-github-303x182.jpg
+  image: thangs.jpg
   text: "Content here may or may not we specific to TWD but it can be cool, funny or weird."
 #
 # Use the call for action to show a button on the frontpage

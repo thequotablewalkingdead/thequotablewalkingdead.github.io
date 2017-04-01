@@ -195,7 +195,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/junk/">Junk</a></li>
+              <li><a  href="http://localhost:4000/junk/">Thangs</a></li>
               <li class="divider"></li>
 
             
