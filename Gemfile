@@ -6,7 +6,7 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem "jekyll-asciidoc"
-
+  gem 'octopress-debugger'
   # require 'json'
   # require 'open-uri'
   # versions = JSON.parse(open('https://pages.github.com/versions.json').read)  
