@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Odd Toaster Tees"
 title: "Icebreaker T-Shirts"
-teaser: "We love AMC The Walking Dead so we're going to extend great fans such as you a special offer."
+teaser: "We love AMC The Walking Dead so much that we're extending great fans such as you a special offer."
 #
 # Styling
 #
