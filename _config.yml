@@ -51,6 +51,7 @@ gems:
     - jekyll-gist
     - jekyll-paginate
     - jekyll-paginate-multiple
+    - jekyll-sitemap
 
 
 #       ____              _             __  _
