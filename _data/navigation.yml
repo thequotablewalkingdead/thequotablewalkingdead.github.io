@@ -64,11 +64,11 @@
   side: left
 
 - title: Gear
-  url: "/info/"
+  url: "/gear/"
   side: left
 
 - title: Thangs
-  url: "/junk/"
+  url: "/info/"
   side: left  
   # dropdown:
   # - title: "Blog Archive"

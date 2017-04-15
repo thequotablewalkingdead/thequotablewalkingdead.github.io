@@ -180,7 +180,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/info/">Gear</a></li>
+              <li><a  href="http://localhost:4000/gear/">Gear</a></li>
               <li class="divider"></li>
 
             
@@ -195,7 +195,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/junk/">Thangs</a></li>
+              <li><a  href="http://localhost:4000/info/">Thangs</a></li>
               <li class="divider"></li>
 
             
