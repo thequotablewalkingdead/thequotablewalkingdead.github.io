@@ -50,6 +50,7 @@ gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-paginate-multiple
 
 
 #       ____              _             __  _
@@ -61,6 +62,14 @@ gems:
 #
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+
+# paginate_multiple:
+#   - paginate: 10
+#     paginate_path: '/blog/page:num/'
+#     sub_dir: '/en'
+#   - paginate: 10
+#     paginate_path: '/blog/de/page:num/'
+#     sub_dir: '/de'
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -136,6 +145,18 @@ defaults:
 #
 
 
+# _________        .__  .__                 __  .__                      
+# \_   ___ \  ____ |  | |  |   ____   _____/  |_|__| ____   ____   ______
+# /    \  \/ /  _ \|  | |  | _/ __ \_/ ___\   __\  |/  _ \ /    \ /  ___/
+# \     \___(  <_> )  |_|  |_\  ___/\  \___|  | |  (  <_> )   |  \\___ \ 
+#  \______  /\____/|____/____/\___  >\___  >__| |__|\____/|___|  /____  >
+#         \/                      \/     \/                    \/     \/ 
+
+collections:
+  front_page_artifacts:
+    output: true
+    permalink: /:collection/:name
+
 
 #     _____ __________
 #    / ___// ____/ __ \
@@ -148,8 +169,6 @@ google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
-
-
 
 #       ______            _
 #      / ____/___ __   __(_)________  ____  _____
