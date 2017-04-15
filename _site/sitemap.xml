@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/front_page_artifacts/shirts</loc>
-<lastmod>2017-04-15T15:32:29-05:00</lastmod>
+<lastmod>2017-04-15T16:08:09-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/design/post-left-sidebar/</loc>
@@ -73,6 +73,14 @@
 <lastmod>2015-08-15T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/design/comments/</loc>
+<lastmod>2015-08-15T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/design/typography/typography/</loc>
+<lastmod>2015-08-16T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/design/typography/typography/</loc>
 <lastmod>2015-08-16T00:00:00-05:00</lastmod>
 </url>
@@ -115,15 +123,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/roadmap/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog/page2/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog/page3/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/blog/page4/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/fonts/iconfont-preview.html</loc>
