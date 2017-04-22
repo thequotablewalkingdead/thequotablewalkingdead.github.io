@@ -1,5 +1,6 @@
 ---
 layout: video-header
+sidebar: right
 title:  "Negan's Bat - DIY Prop"
 subheadline:  "AMC The Walking Dead"
 teaser: "Want to make an awesome prop for your cosplay or costume party?"

@@ -1,5 +1,6 @@
 ---
 layout: video-header
+sidebar: right
 title:  "Do Psychopaths Survive Better?"
 subheadline:  "AMC The Walking Dead"
 teaser: "Seems like cannibals, murderers, and sadists survive better in the world of the TWD than normal folks. But is it really true? "

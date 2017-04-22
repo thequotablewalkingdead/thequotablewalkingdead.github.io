@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 title:  "Glenn Returns To AMC The Walking Dead Season 8"
 subheadline:  "AMC The Walking Dead"
 teaser: "Seeing Glenn die was tough. I mean really tough. It was like a hard punch to the gut."
