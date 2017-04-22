@@ -1,31 +1,29 @@
 ---
 layout: video-header
 sidebar: right
-title:  "Do Psychopaths Survive Better?"
+title:  "DIY Lock Picks?"
 subheadline:  "Stuff 'n' Thangs"
-teaser: "Seems like cannibals, murderers, and sadists survive better in the world of the TWD than normal folks. But is it really true? "
+teaser: "If you're going to survive in the apocalypse you'll need some skills and tools."
 categories:
     - video
 tags:
-    - theory
-    - Film Theory
+    - diy
+    - lock picks
 
 header: no
 
 image:
-    thumb:  daryl-gagged-thumb.jpg
+    thumb:  padlock-thumb.jpg
     background-color:  "#304558"
-    caption: Glenn, AMC The Walking Dead, season 7
+    caption: Make Your Own Lock Picks
 
-iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/uHxtDtZOgRA' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/ttHclcJZex4' frameborder='0' allowfullscreen></iframe>"
 video:
     embedURL: ""
     contentURL: ""
     thumbnailUrl: ""    
 ---
 
-The world of The Walking Dead is tough and brutal. When Rick’s Rangers aren’t fighting off hordes of walkers, they’re having to contend with sick and depraved individuals who seem to be surviving well in the apocalypse. After a while one begins to wonder if being a lunatic really is better than being sane and kind.
-
-MatPat does some cool research on this topic as well as a one on one interview with the man himself, Robert Kirkman. Check it out.
-
+In this video Black Scout Survival show's you how quickly make a set of picks from paperclips. 
+Please note, this is for educational purposes only. Don't break any laws.
 
