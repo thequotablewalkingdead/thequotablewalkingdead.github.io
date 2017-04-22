@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>The Quotable Walking Dead</title>
-	<updated>2017-04-22T12:22:48-05:00</updated>
+	<updated>2017-04-22T16:20:13-05:00</updated>
 
 	<subtitle>»A Fan site dedicated to AMC The Walking Dead. </subtitle>
 
@@ -26,6 +26,41 @@
 
 	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/video/survive-zombies/</id>
+			<title>Survive in the Zombie Apocalypse</title>
+			<link href="http://localhost:4000/video/survive-zombies/" rel="alternate" type="text/html" title="Survive in the Zombie Apocalypse" />
+			<updated>2017-04-22T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>thequotablewalkingdead</name>
+					
+					
+					
+						<uri>http://thequotablewalkingdead.com</uri>
+					
+				</author>
+			
+			<summary>So zombies walk among us. What do you do?</summary>
+			<content type="html" xml:base="http://localhost:4000/video/survive-zombies/">&lt;p&gt;In this video Epic How To gives some no nonsense advice on making it in the zombie apocalypse.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="video" />
+			
+			
+				<category term="diy" />
+			
+				<category term="lock picks" />
+			
+
+			<published>2017-04-22T00:00:00-05:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/video/lucile-prop-shop/</id>
@@ -64,9 +99,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/video/film-theory-psychos/</id>
-			<title>Do Psychopaths Survive Better?</title>
-			<link href="http://localhost:4000/video/film-theory-psychos/" rel="alternate" type="text/html" title="Do Psychopaths Survive Better?" />
+			<id>http://localhost:4000/video/film-theory-psychos-dup/</id>
+			<title>DIY Lock Picks?</title>
+			<link href="http://localhost:4000/video/film-theory-psychos-dup/" rel="alternate" type="text/html" title="DIY Lock Picks?" />
 			<updated>2017-04-17T00:00:00-05:00</updated>
 
 			
@@ -81,10 +116,9 @@
 					
 				</author>
 			
-			<summary>Seems like cannibals, murderers, and sadists survive better in the world of the TWD than normal folks. But is it really true? </summary>
-			<content type="html" xml:base="http://localhost:4000/video/film-theory-psychos/">&lt;p&gt;The world of The Walking Dead is tough and brutal. When Rick’s Rangers aren’t fighting off hordes of walkers, they’re having to contend with sick and depraved individuals who seem to be surviving well in the apocalypse. After a while one begins to wonder if being a lunatic really is better than being sane and kind.&lt;/p&gt;
-
-&lt;p&gt;MatPat does some cool research on this topic as well as a one on one interview with the man himself, Robert Kirkman. Check it out.&lt;/p&gt;
+			<summary>If you're going to survive in the apocalypse you'll need some skills and tools.</summary>
+			<content type="html" xml:base="http://localhost:4000/video/film-theory-psychos-dup/">&lt;p&gt;In this video Black Scout Survival show’s you how quickly make a set of picks from paperclips. 
+Please note, this is for educational purposes only. Don’t break any laws.&lt;/p&gt;
 
 </content>
 
@@ -92,9 +126,9 @@
 				<category term="video" />
 			
 			
-				<category term="theory" />
+				<category term="diy" />
 			
-				<category term="Film Theory" />
+				<category term="lock picks" />
 			
 
 			<published>2017-04-17T00:00:00-05:00</published>
