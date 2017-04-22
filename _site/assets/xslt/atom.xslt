@@ -30,13 +30,13 @@
 	</noscript>
 
 	<!-- Begin Jekyll SEO tag v2.1.0 -->
-<title>Atom Feed (Styled) - The Quotable Walking Dead</title>
+<title>Atom Feed (Styled) - The Quotable Walking Dead, AMC The Walking Dead fan site</title>
 <meta property="og:title" content="Atom Feed (Styled)" />
 <meta name="description" content="»A Fan site dedicated to AMC The Walking Dead." />
 <meta property="og:description" content="»A Fan site dedicated to AMC The Walking Dead." />
 <link rel="canonical" href="http://localhost:4000/assets/xslt/atom.xslt" />
 <meta property="og:url" content="http://localhost:4000/assets/xslt/atom.xslt" />
-<meta property="og:site_name" content="The Quotable Walking Dead" />
+<meta property="og:site_name" content="The Quotable Walking Dead, AMC The Walking Dead fan site" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@thequotablewd" />
 <meta name="twitter:creator" content="@thequotablewalkingdead" />
@@ -95,7 +95,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> The Quotable Walking Dead</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> The Quotable Walking Dead, AMC The Walking Dead fan site</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -204,8 +204,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="The Quotable Walking Dead – AMC The Walking Dead News, Memes, Contests and more">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="The Quotable Walking Dead – AMC The Walking Dead News, Memes, Contests and more">
+			<a id="logo" href="http://localhost:4000/" title="The Quotable Walking Dead, AMC The Walking Dead fan site – AMC The Walking Dead News, Memes, Contests and more">
+				<img src="http://localhost:4000/assets/img/logo.png" alt="The Quotable Walking Dead, AMC The Walking Dead fan site – AMC The Walking Dead News, Memes, Contests and more">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -282,7 +282,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »A Fan site dedicated to AMC The Walking Dead. 
+              »A Fan site dedicated to AMC The Walking Dead.
               <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
