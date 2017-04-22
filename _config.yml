@@ -68,9 +68,9 @@ paginate_multiple:
   - paginate: 5
     paginate_path: 'blog/thangs/page:num/'
     sub_dir: '/thangs'
-  # - paginate: 5
-  #   paginate_path: 'blog/page:num/'
-  #   sub_dir: '/main'    
+  - paginate: 5
+    paginate_path: 'blog/page:num/'
+    sub_dir: '/main'    
 
 
 # Theme works best with Kramdown (using the table of contents function)
