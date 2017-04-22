@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Style your content!</title>
+	<title>Header with a Full-Width-Image</title>
 
     <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
 
@@ -26,20 +26,20 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="»A Fan site dedicated to AMC The Walking Dead.">
+	<meta name="description" content="Feeling Responsive allows you to use all kinds of headers. This example shows a header with a full-width-image.">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/design/">
+	<link rel="canonical" href="http://localhost:4000/reference/design/2014-10-09-header-full-width-image/">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Style your content!">
-	<meta property="og:description" content="»A Fan site dedicated to AMC The Walking Dead.">
-	<meta property="og:url" content="http://localhost:4000/design/">
+	<meta property="og:title" content="Header with a Full-Width-Image">
+	<meta property="og:description" content="Feeling Responsive allows you to use all kinds of headers. This example shows a header with a full-width-image.">
+	<meta property="og:url" content="http://localhost:4000/reference/design/2014-10-09-header-full-width-image/">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="The Quotable Walking Dead">
@@ -211,6 +211,10 @@
 
 
 
+<div class="masthead-caption">
+	<a href="https://unsplash.com/">This is a caption for the header image with link</a>
+</div>
+
 
 
 
@@ -224,18 +228,42 @@
 				
 
 				<div itemprop="name">
-					<p class="subheadline">Layouts of Feeling Responsive</p>
-					<h1>Style your content!</h1>
+					<p class="subheadline">Headers With Style</p>
+					<h1>Header with a Full-Width-Image</h1>
 				</div>
 			</header>
 
 
 			
+			<p class="teaser" itemprop="description">
+				Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>.
+			</p>
+			
 
 			<div itemprop="articleSection">
-			<ul>
+			<p>It’s so easy to do. Just define in front matter your image.
+<!--more--></p>
+
+<h2 id="front-matter-code">Front Matter Code</h2>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>header:
+    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+</code></pre>
+</div>
+
+<h3 class="t60" id="all-header-styles">All Header-Styles</h3>
+
+<ul class="side-nav">
+
+  
+
     
+
+  
 </ul>
+
 
 			</div>
 
@@ -381,8 +409,8 @@
 
 
 <script>
-    $("#masthead").backstretch("/images/header_unsplash_5.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("/images/header_unsplash_5.jpg", {fade: 700});
+    $("#masthead").backstretch("/images/unsplash_brooklyn-bridge_header.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("/images/unsplash_brooklyn-bridge_header.jpg", {fade: 700});
 </script>
 
 
