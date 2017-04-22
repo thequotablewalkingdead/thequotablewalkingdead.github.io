@@ -31,7 +31,7 @@ widget2:
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'  
 widget3:
   title: "Stuff...Thangs"
-  url: '/info/'
+  url: '/blog/thangs/'
   image: thangs.jpg
   text: "Content here may not be specific to TWD but it'll be cool, funny or weird."
 #

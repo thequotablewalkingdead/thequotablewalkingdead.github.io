@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/front_page_artifacts/shirts</loc>
-<lastmod>2017-04-17T14:37:22-05:00</lastmod>
+<lastmod>2017-04-22T11:40:10-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/design/post-left-sidebar/</loc>
@@ -85,6 +85,14 @@
 <lastmod>2017-04-17T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/video/film-theory-psychos/</loc>
+<lastmod>2017-04-17T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/video/lucile-prop-shop/</loc>
+<lastmod>2017-04-21T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/archive/</loc>
 </url>
 <url>
@@ -110,6 +118,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/thangs/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>

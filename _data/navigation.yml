@@ -68,7 +68,7 @@
   side: left
 
 - title: Thangs
-  url: "/info/"
+  url: "/blog/thangs/"
   side: left  
   # dropdown:
   # - title: "Blog Archive"

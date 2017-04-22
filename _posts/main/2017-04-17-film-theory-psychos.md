@@ -1,8 +1,8 @@
 ---
 layout: video-header
-title:  "Glenn Returns To AMC The Walking Dead Season 8"
+title:  "Do Psychopaths Survive Better?"
 subheadline:  "AMC The Walking Dead"
-teaser: "Seeing Glenn die was tough. I mean really tough. It was like a hard punch to the gut."
+teaser: "Seems like cannibals, murderers, and sadists survive better in the world of the TWD than normal folks. But is it really true? "
 categories:
     - video
 tags:
@@ -12,17 +12,19 @@ tags:
 header: no
 
 image:
-    thumb:  https://i.ytimg.com/vi/uHxtDtZOgRA/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=68&sigh=w0awtTcRVSlwNErh9XYwQgcNlEg
-    title: glenn-esason-7-800x600.jpg
+    thumb:  daryl-gagged-thumb.jpg
     background-color:  "#304558"
     caption: Glenn, AMC The Walking Dead, season 7
 
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/uHxtDtZOgRA' frameborder='0' allowfullscreen></iframe>"
 video:
     embedURL: ""
     contentURL: ""
     thumbnailUrl: ""    
 ---
 
-It's a FILM THEORY!!
+The world of The Walking Dead is tough and brutal. When Rick’s Rangers aren’t fighting off hordes of walkers, they’re having to contend with sick and depraved individuals who seem to be surviving well in the apocalypse. After a while one begins to wonder if being a lunatic really is better than being sane and kind.
+
+MatPat does some cool research on this topic as well as a one on one interview with the man himself, Robert Kirkman. Check it out.
+
 
