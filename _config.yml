@@ -51,6 +51,7 @@ gems:
     - jekyll-gist
     - jekyll-paginate
     - jekyll-paginate-multiple
+    - jekyll-seo-tag
     - jekyll-sitemap
 
 #       ____              _             __  _
@@ -211,10 +212,17 @@ msapplication_tilecolor:                '#fabb00'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-# socialmedia:
-#     twitter: phlow
-#     facebook: phlow.media
+socialmedia:
+  name: thequotablewalkingdead
+  links:
+    - https://www.facebook.com/thequotablewalkingdead/
+    - https://twitter.com/thequotablewd
+    - https://www.tumblr.com/blog/thequotablewalkingdead
+    # twitter: thequotablewd
+    # facebook: thequotablewalkingdead
 
+twitter:
+  username: thequotablewd
 
 #        ____  _
 #       / __ \(_)________ ___  _______

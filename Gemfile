@@ -13,6 +13,7 @@ group :jekyll_plugins do
   # versions = JSON.parse(open('https://pages.github.com/versions.json').read)  
   # gem 'github-pages', versions['github-pages']
   gem 'github-pages'
+  gem 'jekyll-seo-tag'
 end
 
 gem 'asciidoctor', '~> 1.5.4'

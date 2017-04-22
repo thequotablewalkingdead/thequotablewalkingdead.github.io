@@ -223,6 +223,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-paginate
   jekyll-paginate-multiple
+  jekyll-seo-tag
   octopress-debugger
   pry-byebug
 
