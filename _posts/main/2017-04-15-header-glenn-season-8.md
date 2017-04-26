@@ -1,8 +1,8 @@
 ---
 layout: page
 sidebar: right
-title:  "Glenn Returns To AMC The Walking Dead Season 8"
-subheadline:  "AMC The Walking Dead"
+title:  "Glenn Returns To AMC TWD Season 8"
+subheadline:  "AMC TWD"
 teaser: "Seeing Glenn die was tough. I mean really tough. It was like a hard punch to the gut."
 categories:
     - news
@@ -14,10 +14,10 @@ tags:
 header: no
 
 image:
-    thumb:  glenn-esason-7-thumb.jpg
-    title: glenn-esason-7-800x600.jpg
+    thumb:  glenn-season-7-thumb.jpg
+    title: glenn-season-7-800x600.jpg
     background-color:  "#304558"
-    caption: Glenn, AMC The Walking Dead, season 7
+    caption: Glenn, AMC TWD, season 7
 ---
 
 I almost felt like curling up into a little ball in the corner waiting for it all to be over.

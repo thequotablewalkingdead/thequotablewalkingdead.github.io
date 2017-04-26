@@ -30,13 +30,13 @@
 	</noscript>
 
 	<!-- Begin Jekyll SEO tag v2.1.0 -->
-<title>RSS Feed (Styled) - The Quotable Walking Dead, AMC The Walking Dead fan site</title>
+<title>RSS Feed (Styled) - The Quotable Walking Dead, AMC TWD fan site</title>
 <meta property="og:title" content="RSS Feed (Styled)" />
-<meta name="description" content="»A Fan site dedicated to AMC The Walking Dead." />
-<meta property="og:description" content="»A Fan site dedicated to AMC The Walking Dead." />
+<meta name="description" content="»A Fan site dedicated to AMC TWD." />
+<meta property="og:description" content="»A Fan site dedicated to AMC TWD." />
 <link rel="canonical" href="/assets/xslt/rss.xslt" />
 <meta property="og:url" content="/assets/xslt/rss.xslt" />
-<meta property="og:site_name" content="The Quotable Walking Dead, AMC The Walking Dead fan site" />
+<meta property="og:site_name" content="The Quotable Walking Dead, AMC TWD fan site" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@thequotablewd" />
 <meta name="twitter:creator" content="@thequotablewalkingdead" />
@@ -44,7 +44,7 @@
 {"@context": "http://schema.org",
 "@type": "WebPage",
 "headline": "RSS Feed (Styled)",
-"description": "»A Fan site dedicated to AMC The Walking Dead.",
+"description": "»A Fan site dedicated to AMC TWD.",
 "publisher": {"@type": "Organization",
 "logo": {"@type": "ImageObject",
 "url": "/logo.png"}},
@@ -94,7 +94,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="" class="icon-tree"> The Quotable Walking Dead, AMC The Walking Dead fan site</a></h1>
+      <h1 class="show-for-small-only"><a href="" class="icon-tree"> The Quotable Walking Dead, AMC TWD fan site</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -203,8 +203,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="/" title="The Quotable Walking Dead, AMC The Walking Dead fan site – AMC The Walking Dead News, Memes, Contests and more">
-				<img src="/assets/img/logo.png" alt="The Quotable Walking Dead, AMC The Walking Dead fan site – AMC The Walking Dead News, Memes, Contests and more">
+			<a id="logo" href="/" title="The Quotable Walking Dead, AMC TWD fan site – AMC TWD News, Memes, Contests and more">
+				<img src="/assets/img/logo.png" alt="The Quotable Walking Dead, AMC TWD fan site – AMC TWD News, Memes, Contests and more">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -281,7 +281,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »A Fan site dedicated to AMC The Walking Dead.
+              »A Fan site dedicated to AMC TWD.
               <a href="/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

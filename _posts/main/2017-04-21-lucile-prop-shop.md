@@ -2,7 +2,7 @@
 layout: video-header
 sidebar: right
 title:  "Negan's Bat - DIY Prop"
-subheadline:  "AMC The Walking Dead"
+subheadline:  "AMC TWD"
 teaser: "Want to make an awesome prop for your cosplay or costume party?"
 categories:
     - video
@@ -16,7 +16,7 @@ header: no
 image:
     thumb:  prop-shop-negans-bat-thumb.jpg
     background-color:  "#304558"
-    caption: Glenn, AMC The Walking Dead, season 7
+    caption: Glenn, AMC TWD, season 7
 
 iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/rOUofPB50nM' frameborder='0' allowfullscreen></iframe>"
 video:

@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: "Odd Toaster Tees"
 title: "Icebreaker T-Shirts"
-teaser: "We love AMC The Walking Dead so much that we're extending great fans such as you a special offer."
+teaser: "We love AMC TWD so much that we're extending great fans such as you a special offer."
 #
 # Styling
 #
@@ -28,7 +28,7 @@ Our t-shirts are a fun way to do just that. People continually walk up and compl
 t-shirt such as the ones we make. This is great way to meet new people and break the ice. We call these Icebreaker t-shirts because they 
 help get the conversation started.
 
-Like I said before we love AMC The Walking Dead so anyone who goes to our site right now gets `$4.00 OFF` their order with this coupon code: `AMCTWD`.
+Like I said before we love AMC TWD so anyone who goes to our site right now gets `$4.00 OFF` their order with this coupon code: `AMCTWD`.
 Also, if you order `2 or more shirts`, you'll get `FREE SHIPPING` so you'll save even more.
 
 [Shop for a T-Shirt ›](https://oddtoaster.com)

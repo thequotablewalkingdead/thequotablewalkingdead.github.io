@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>The Quotable Walking Dead, AMC The Walking Dead fan site</title>
-		<description>»A Fan site dedicated to AMC The Walking Dead.</description>
+		<title>The Quotable Walking Dead, AMC TWD fan site</title>
+		<description>»A Fan site dedicated to AMC TWD.</description>
 		<link>/</link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -51,7 +51,7 @@ Please note, this is for educational purposes only. Don’t break any laws.&lt;/
 			</item>
 		
 			<item>
-				<title>Glenn Returns To AMC The Walking Dead Season 8</title>
+				<title>Glenn Returns To AMC TWD Season 8</title>
 				<link>/news/header-glenn-season-8/</link>
 				<pubDate>Sat, 15 Apr 2017 00:00:00 -0500</pubDate>
 				<description>&lt;p&gt;I almost felt like curling up into a little ball in the corner waiting for it all to be over.&lt;/p&gt;
