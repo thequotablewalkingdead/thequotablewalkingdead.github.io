@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/</id>
+	<id>http://www.thequotablewalkingdead.com/</id>
 	<title>The Quotable Walking Dead, AMC TWD fan site</title>
-	<updated>2017-05-02T23:51:59-05:00</updated>
+	<updated>2017-05-06T13:26:14-05:00</updated>
 
 	<subtitle>»A Fan site dedicated to AMC TWD.</subtitle>
 
@@ -21,16 +21,75 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+	<link href="http://www.thequotablewalkingdead.com/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://www.thequotablewalkingdead.com/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/video/survive-zombies/</id>
+			<id>http://www.thequotablewalkingdead.com/news/morgan-facts/</id>
+			<title>Three Jeffrey Dean Morgan Facts</title>
+			<link href="http://www.thequotablewalkingdead.com/news/morgan-facts/" rel="alternate" type="text/html" title="Three Jeffrey Dean Morgan Facts" />
+			<updated>2017-05-06T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>thequotablewalkingdead</name>
+					
+					
+					
+						<uri>http://thequotablewalkingdead.com</uri>
+					
+				</author>
+			
+			<summary>These are some surprising facts about the actor playing our favorite villain.</summary>
+			<content type="html" xml:base="http://www.thequotablewalkingdead.com/news/morgan-facts/">&lt;p&gt;&lt;img src=&quot;/images/dean-morgan-tattoo-400x248.jpg&quot; alt=&quot;Forearm Revolver&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;revolver-tattoo&quot;&gt;Revolver Tattoo&lt;/h2&gt;
+
+&lt;p&gt;Jeffrey Dean Morgan fell in love with the revolver he used while shooting the film The Salvation. 
+So much so in fact that he sought someone in the middle of Africa to tattoo it onto his forearm. At first cast members 
+thought he was foolish only to later inspire several of them to get tattoos of their own.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/alpaca-400x300.jpg&quot; alt=&quot;Alpaca&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;wally-the-llama&quot;&gt;Wally the Llama&lt;/h2&gt;
+
+&lt;p&gt;The man has alpacas on his working farm in upstate New York. Is there really anything more to say?&lt;/p&gt;
+
+&lt;div class=&quot;alert-box warning &quot;&gt;&lt;p&gt;&lt;a href=&quot;http://91f09enex92ws04c7bicoh6o03.hop.clickbank.net/?tid=TWD-BLOG&quot; target=&quot;_top&quot;&gt;EARN EXTRA CASH    »Click Here!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/tuna-cans-400x267.jpg&quot; alt=&quot;Tuna&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tuna-diet&quot;&gt;Tuna Diet&lt;/h2&gt;
+
+&lt;p&gt;In preparation for his role on the History Channel miniseries Texas Rising, the actor ate a can of tuna a day to lose some weight. 
+Originally planning to lose 10 pounds, the actor lost a whopping 40 pounds when he was done.&lt;/p&gt;
+
+</content>
+
+			
+				<category term="news" />
+			
+			
+				<category term="Negan" />
+			
+				<category term="Jeffrey Dean Morgan" />
+			
+				<category term="Cast" />
+			
+
+			<published>2017-05-06T00:00:00-05:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://www.thequotablewalkingdead.com/video/survive-zombies/</id>
 			<title>Survive in the Zombie Apocalypse</title>
-			<link href="http://localhost:4000/video/survive-zombies/" rel="alternate" type="text/html" title="Survive in the Zombie Apocalypse" />
+			<link href="http://www.thequotablewalkingdead.com/video/survive-zombies/" rel="alternate" type="text/html" title="Survive in the Zombie Apocalypse" />
 			<updated>2017-04-22T00:00:00-05:00</updated>
 
 			
@@ -46,7 +105,7 @@
 				</author>
 			
 			<summary>So zombies walk among us. What do you do?</summary>
-			<content type="html" xml:base="http://localhost:4000/video/survive-zombies/">&lt;p&gt;In this video Epic How To gives some no nonsense advice on making it in the zombie apocalypse.&lt;/p&gt;
+			<content type="html" xml:base="http://www.thequotablewalkingdead.com/video/survive-zombies/">&lt;p&gt;In this video Epic How To gives some no nonsense advice on making it in the zombie apocalypse.&lt;/p&gt;
 
 </content>
 
@@ -63,9 +122,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/video/lucile-prop-shop/</id>
+			<id>http://www.thequotablewalkingdead.com/video/lucile-prop-shop/</id>
 			<title>Negan's Bat - DIY Prop</title>
-			<link href="http://localhost:4000/video/lucile-prop-shop/" rel="alternate" type="text/html" title="Negan's Bat - DIY Prop" />
+			<link href="http://www.thequotablewalkingdead.com/video/lucile-prop-shop/" rel="alternate" type="text/html" title="Negan's Bat - DIY Prop" />
 			<updated>2017-04-21T00:00:00-05:00</updated>
 
 			
@@ -81,7 +140,7 @@
 				</author>
 			
 			<summary>Want to make an awesome prop for your cosplay or costume party?</summary>
-			<content type="html" xml:base="http://localhost:4000/video/lucile-prop-shop/">&lt;p&gt;The fine folks at the DIY PROP SHOP walk you through how to create you own Lucile prop. While the prop uses a real wooden bat, they make use of some clever crafting to turn string into believable barbed wire.&lt;/p&gt;
+			<content type="html" xml:base="http://www.thequotablewalkingdead.com/video/lucile-prop-shop/">&lt;p&gt;The fine folks at the DIY PROP SHOP walk you through how to create you own Lucile prop. While the prop uses a real wooden bat, they make use of some clever crafting to turn string into believable barbed wire.&lt;/p&gt;
 </content>
 
 			
@@ -99,9 +158,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/video/pick-locks/</id>
+			<id>http://www.thequotablewalkingdead.com/video/pick-locks/</id>
 			<title>DIY Lock Picks?</title>
-			<link href="http://localhost:4000/video/pick-locks/" rel="alternate" type="text/html" title="DIY Lock Picks?" />
+			<link href="http://www.thequotablewalkingdead.com/video/pick-locks/" rel="alternate" type="text/html" title="DIY Lock Picks?" />
 			<updated>2017-04-17T00:00:00-05:00</updated>
 
 			
@@ -117,7 +176,7 @@
 				</author>
 			
 			<summary>If you're going to survive in the apocalypse you'll need some skills and tools.</summary>
-			<content type="html" xml:base="http://localhost:4000/video/pick-locks/">&lt;p&gt;In this video Black Scout Survival show’s you how quickly make a set of picks from paperclips. 
+			<content type="html" xml:base="http://www.thequotablewalkingdead.com/video/pick-locks/">&lt;p&gt;In this video Black Scout Survival show’s you how quickly make a set of picks from paperclips. 
 Please note, this is for educational purposes only. Don’t break any laws.&lt;/p&gt;
 
 </content>
@@ -135,9 +194,9 @@ Please note, this is for educational purposes only. Don’t break any laws.&lt;/
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/video/film-theory-psychos/</id>
+			<id>http://www.thequotablewalkingdead.com/video/film-theory-psychos/</id>
 			<title>Do Psychopaths Survive Better?</title>
-			<link href="http://localhost:4000/video/film-theory-psychos/" rel="alternate" type="text/html" title="Do Psychopaths Survive Better?" />
+			<link href="http://www.thequotablewalkingdead.com/video/film-theory-psychos/" rel="alternate" type="text/html" title="Do Psychopaths Survive Better?" />
 			<updated>2017-04-17T00:00:00-05:00</updated>
 
 			
@@ -153,7 +212,7 @@ Please note, this is for educational purposes only. Don’t break any laws.&lt;/
 				</author>
 			
 			<summary>Seems like cannibals, murderers, and sadists survive better in the world of the TWD than normal folks. But is it really true? </summary>
-			<content type="html" xml:base="http://localhost:4000/video/film-theory-psychos/">&lt;p&gt;The world of The Walking Dead is tough and brutal. When Rick’s Rangers aren’t fighting off hordes of walkers, they’re having to contend with sick and depraved individuals who seem to be surviving well in the apocalypse. After a while one begins to wonder if being a lunatic really is better than being sane and kind.&lt;/p&gt;
+			<content type="html" xml:base="http://www.thequotablewalkingdead.com/video/film-theory-psychos/">&lt;p&gt;The world of The Walking Dead is tough and brutal. When Rick’s Rangers aren’t fighting off hordes of walkers, they’re having to contend with sick and depraved individuals who seem to be surviving well in the apocalypse. After a while one begins to wonder if being a lunatic really is better than being sane and kind.&lt;/p&gt;
 
 &lt;p&gt;MatPat does some cool research on this topic as well as a one on one interview with the man himself, Robert Kirkman. Check it out.&lt;/p&gt;
 
@@ -172,9 +231,9 @@ Please note, this is for educational purposes only. Don’t break any laws.&lt;/
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/news/header-glenn-season-8/</id>
+			<id>http://www.thequotablewalkingdead.com/news/header-glenn-season-8/</id>
 			<title>Glenn Returns To AMC TWD Season 8</title>
-			<link href="http://localhost:4000/news/header-glenn-season-8/" rel="alternate" type="text/html" title="Glenn Returns To AMC TWD Season 8" />
+			<link href="http://www.thequotablewalkingdead.com/news/header-glenn-season-8/" rel="alternate" type="text/html" title="Glenn Returns To AMC TWD Season 8" />
 			<updated>2017-04-15T00:00:00-05:00</updated>
 
 			
@@ -190,7 +249,7 @@ Please note, this is for educational purposes only. Don’t break any laws.&lt;/
 				</author>
 			
 			<summary>Seeing Glenn die was tough. I mean really tough. It was like a hard punch to the gut.</summary>
-			<content type="html" xml:base="http://localhost:4000/news/header-glenn-season-8/">&lt;p&gt;I almost felt like curling up into a little ball in the corner waiting for it all to be over.&lt;/p&gt;
+			<content type="html" xml:base="http://www.thequotablewalkingdead.com/news/header-glenn-season-8/">&lt;p&gt;I almost felt like curling up into a little ball in the corner waiting for it all to be over.&lt;/p&gt;
 
 &lt;p&gt;But we know this is all part of being a Walking Dead fan. While the show doesn’t follow all points in the comics, we knew it was very likely Glenn would die at Negan’s hands.&lt;/p&gt;
 
