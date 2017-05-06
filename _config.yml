@@ -123,6 +123,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: thequotablewalkingdead     # Default author for pages
+      image: /images/rick-blog.jpg
   -
     scope:
       path: ''
@@ -132,7 +133,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: thequotablewalkingdead     # Default author for posts
-
+      image: /images/rick-blog.jpg
 
 
 #       _   __            _             __  _
