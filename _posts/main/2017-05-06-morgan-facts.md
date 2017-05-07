@@ -35,7 +35,7 @@ thought he was foolish only to later inspire several of them to get tattoos of t
 The man has alpacas on his working farm in upstate New York. Is there really anything more to say?
 
 
-{% include alert warning='<a href="http://91f09enex92ws04c7bicoh6o03.hop.clickbank.net/?tid=TWD-BLOG" target="_top">EARN EXTRA CASH &nbsp;&nbsp;&nbsp;>>Click Here!</a>' %}
+{% include alert warning='<a href="http://91f09enex92ws04c7bicoh6o03.hop.clickbank.net/?tid=TWD-BLOG" target="_top">SHORT ON CASH ? &nbsp;&nbsp;&nbsp;>>Click Here!</a>' %}
 
 ![Tuna](/images/tuna-cans-400x267.jpg){:class="img-responsive" :height="267px" :width="400px"}
 
