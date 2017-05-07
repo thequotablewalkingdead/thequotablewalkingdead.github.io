@@ -37,13 +37,15 @@
 <link rel="canonical" href="http://www.thequotablewalkingdead.com/assets/xslt/rss.xslt" />
 <meta property="og:url" content="http://www.thequotablewalkingdead.com/assets/xslt/rss.xslt" />
 <meta property="og:site_name" content="The Quotable Walking Dead, AMC TWD fan site" />
-<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.thequotablewalkingdead.com/images/rick-blog.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@thequotablewd" />
 <meta name="twitter:creator" content="@thequotablewalkingdead" />
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "WebPage",
 "headline": "RSS Feed (Styled)",
+"image": "http://www.thequotablewalkingdead.com/images/rick-blog.jpg",
 "description": "»A Fan site dedicated to AMC TWD.",
 "publisher": {"@type": "Organization",
 "logo": {"@type": "ImageObject",
