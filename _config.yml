@@ -49,6 +49,7 @@ logo: "logo.png"
 gems:
     - jekyll-asciidoc
     - jekyll-gist
+    - jekyll-redirect-from
     - jekyll-paginate
     - jekyll-paginate-multiple
     - jekyll-seo-tag
@@ -66,12 +67,16 @@ gems:
 
 paginate_multiple:
   - paginate: 5
+    paginate_path: 'blog/projects/page:num/'
+    sub_dir: '/projects'
+  - paginate: 5
     paginate_path: 'blog/thangs/page:num/'
     sub_dir: '/thangs'
   - paginate: 5
     paginate_path: 'blog/page:num/'
-    sub_dir: '/main'    
+    sub_dir: '/main'
 
+#http://localhost:4000/teds-wood-working/
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown
